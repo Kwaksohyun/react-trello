@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-trello/static/js/main.bfcaea3a.js",
+    "static/media/sun_icon.svg": "/react-trello/static/media/sun_icon.5941fb84d21ecfb60fcb1a983dfa8745.svg",
+    "index.html": "/react-trello/index.html",
+    "static/media/moon_icon.svg": "/react-trello/static/media/moon_icon.b989ca34d95f16644d8182a7b6b4592b.svg",
+    "static/media/add_library_my_icon.svg": "/react-trello/static/media/add_library_my_icon.f27e5107d1ba323ddba1c26a28dff30b.svg",
+    "main.bfcaea3a.js.map": "/react-trello/static/js/main.bfcaea3a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bfcaea3a.js"
+  ]
+}
